@@ -1,0 +1,203 @@
+{
+  "PersonalInfo": {
+    "Name": "Juan Carlos Del Saz",
+    "Position": "Consultant 2",
+    "Address": "Valencia, Spain",
+    "Email": "jcdelsazg@gmail.com",
+    "Telephone": "+34672691786"
+  },
+  "SocialMedia": {
+    "Linkedin": "https://www.linkedin.com/in/juan-carlos-del-saz-gutierrez-779a07158/",
+    "Github": "https://github.com/jcdelsazg"
+  },
+  "Experiences": [
+    {
+      "CompanyName": "Guidewire Spain",
+      "Url": "https://www.guidewire.com/",
+      "Linkedin": "https://www.linkedin.com/company/guidewire-software/",
+      "Position": "Consultant 2",
+      "Description": "Consulting and software development of the Insurance suite private software.",
+      "StartDate": "01.10.2019",
+      "EndDate": "",
+      "Location": "Remotely, Valencia, Spain"
+    },
+    {
+      "CompanyName": "Capgemini ADCenter",
+      "Url": "https://www.capgemini.com/es-es/service/agile-delivery-center-valencia/",
+      "Linkedin": "https://www.linkedin.com/company/capgemini/",
+      "Position": "Senior software engineer",
+      "Description": "Software development using .Net, Java, Angular technologies. Agile development. Scrum Master. International projects",
+      "StartDate": "09.01.2019",
+      "EndDate": "01.12.2019",
+      "Location": "Valencia, Spain"
+    },
+    {
+      "CompanyName": "Neanex SL",
+      "Url": "https://www.neanex.com/",
+      "Linkedin": "https://www.linkedin.com/company/neanex/",
+      "Position": "Full stack Developer",
+      "Description": "Built a software for management of civil engineering projects. React + NodeJs + Java Spring Boot + Graphql + Neo4j database. Agile Methodologies",
+      "StartDate": "01-05-2018",
+      "EndDate": "31-12-2018",
+      "Location": "Antwerpen, Belgium"
+    },
+    {
+      "CompanyName": "The Workshop Inventors of Play",
+      "Url": "https://theworkshop.com/es/pagina-de-inicio/",
+      "Linkedin": "https://www.linkedin.com/company/the-workshop---inventors-of-play/?originalSubdomain=es",
+      "Position": "Backend Developer (Contractor)",
+      "Description": "Software development using .NET, C#, Angular. Agile methodologies",
+      "StartDate": "01.05.2017",
+      "EndDate": "31.04.2018",
+      "Location": "Malaga, Spain"
+    },
+    {
+      "CompanyName": "Sopra Steria",
+      "Url": "https://www.soprasteria.es/",
+      "Linkedin": "https://www.linkedin.com/company/soprasteria/",
+      "Position": "Software Engineer",
+      "Description": "Analysis, development and testing of Java backend services for client of the Retail Sector",
+      "StartDate": "2017-01-01",
+      "EndDate": "2017-05-01",
+      "Location": "Valencia, Spain"
+    }
+  ],
+  "Skills": [
+    {
+      "Name": "React",
+      "Percent": "80%"
+    },
+    {
+      "Name": "NodeJs",
+      "Percent": "65%"
+    },
+    {
+      "Name": "Java",
+      "Percent": "70%"
+    },
+    {
+      "Name": "C#",
+      "Percent": "70%"
+    },
+    {
+      "Name": "GIT",
+      "Percent": "60%"
+    },
+    {
+      "Name": "Scrum",
+      "Percent": "80%"
+    }
+  ],
+  "Languages": [
+    {
+      "Name": "Spanish",
+      "Percent": "100%",
+      "Level": "Mother tongue"
+    },
+    {
+      "Name": "English",
+      "Percent": "66%",
+      "Level": "Upper Intermediate"
+    },
+    {
+      "Name": "Valenciano",
+      "Percent": "33%",
+      "Level": "Intermediate"
+    }
+  ],
+  "Education": [
+    {
+      "Title": "Master of Information Management",
+      "StudyCentre": "Polytechnic University of Valencia",
+      "Location": "Valencia, Spain",
+      "Dates": "In progress"
+    },
+    {
+      "Title": "Degree of Computer Engineering",
+      "StudyCentre": "Polytechnic University of Valencia",
+      "Location": "Valencia, Spain",
+      "Dates": "2011 - 2015"
+    },
+    {
+      "Title": "Superior Technical in Computer system management",
+      "StudyCentre": "I E S Serra Perenxisa",
+      "Location": "Valencia, Spain",
+      "Dates": "2009 - 2011"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "fundsAPI",
+      "Url": "https://github.com/jcdelsazg/fundsAPI",
+      "Description": "Funds Api in DotnetCore 2.2 using C#",
+      "Technology": "netcore"
+    },
+    {
+      "Name": "nodeAPI",
+      "Url": "https://github.com/jcdelsazg/nodeAPI",
+      "Description": "Rest API created with NodeJS and Express",
+      "Technology": "nodejs"
+    },
+    {
+      "Name": "the-burguer-builder",
+      "Url": "https://github.com/jcdelsazg/the-burguer-builder",
+      "Description": "Program for build burguers created with REACT",
+      "Technology": "reactImg"
+    },
+    {
+      "Name": "node-microservices",
+      "Url": "https://github.com/jcdelsazg/node-microservices",
+      "Description": "Microservices architecture implemented with NodeJs and Express",
+      "Technology": "nodejs"
+    },
+    {
+      "Name": "search-movies",
+      "Url": "https://github.com/jcdelsazg/search-movies",
+      "Description": "Search movies project created with REACT ",
+      "Technology": "reactImg"
+    },
+    {
+      "Name": "tutorial-typescript",
+      "Url": "https://github.com/jcdelsazg/tutorial-typescript",
+      "Description": "Typescript basic design patterns ",
+      "Technology": "typescript"
+    }
+  ],
+  "Certifications": [
+    {
+      "Name": "Node.Js Microservices",
+      "Date": "2020",
+      "Platform": "Linkedin Learning"
+    },
+    {
+      "Name": "SAFE 4 Agilist Formation",
+      "Date": "2019",
+      "Platform": "Capgemini"
+    },
+    {
+      "Name": "Typescript the complete developer's guide",
+      "Date": "2019",
+      "Platform": "Udemy"
+    },
+    {
+      "Name": "Java the complete development course",
+      "Date": "2019",
+      "Platform": "Udemy"
+    },
+    {
+      "Name": "React the complete guide",
+      "Date": "2018",
+      "Platform": "Udemy"
+    },
+    {
+      "Name": "Angular 8+ From 0 to Professional",
+      "Date": "2018",
+      "Platform": "Udemy"
+    },
+    {
+      "Name": "Agile with Scrum from beginner to advanced",
+      "Date": "2018",
+      "Platform": "Udemy"
+    }
+  ]
+}
